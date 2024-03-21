@@ -1,0 +1,30 @@
+{
+  "name": "nihilnon",
+  "version": "1.0.0",
+  "description": "Ethereum Blockchain IPC Cloud for dApps - No More Local Ethereum Blockchain Syncing",
+  "main": "dappzy.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeolaGoodwin/nihilnon.git"
+  },
+  "keywords": [
+    "expedita",
+    "cumque",
+    "blockchain",
+    "api",
+    "blockchain",
+    "ipc",
+    "sit",
+    "possimus",
+    "est",
+    "sint",
+    "esse",
+    "cloud"
+  ],
+  "author": "ColleenLedner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeolaGoodwin/nihilnon.git/issues"
+  },
+  "homepage": "https://github.com/LeolaGoodwin/nihilnon.git"
+}
